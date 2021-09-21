@@ -15,6 +15,7 @@ Schemat bazy danych
 
 Zapytania SQL
 1.Napisać zapytanie sql, które zwróci listę wszystkich pracowników wraz z imieniem i nazwiskiem przełożonego (jeśli istnieje).
+
 ![image](https://user-images.githubusercontent.com/25044505/134255211-07d521a6-786b-423e-937c-2c915004f6ea.png)
 
 2.Napisać zapytanie, które zwróci nam tylko przełożonych.
