@@ -18,4 +18,5 @@ Zapytania SQL
 ![image](https://user-images.githubusercontent.com/25044505/134255211-07d521a6-786b-423e-937c-2c915004f6ea.png)
 
 2.Napisać zapytanie, które zwróci nam tylko przełożonych.
+
 ![image](https://user-images.githubusercontent.com/25044505/134255280-ffd6b56e-2b44-4da8-94d3-0f7f8d3aa0ed.png)
